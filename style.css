@@ -1,0 +1,13 @@
+body{
+  height: 100%;
+  margin: 20% 25% 12% 14%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+    
+}
+table{
+    text-align: center;
+
+}
